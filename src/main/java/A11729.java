@@ -15,7 +15,7 @@ public class A11729 {
         sb = new StringBuilder();
 
 //        h(num, 1, 2, 3);
-        h(num, 1, 3);₩
+        h(num, 1, 3);
 
         sb.insert(0, cnt + "\n");
         System.out.println(sb);
